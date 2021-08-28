@@ -6,3 +6,7 @@ notes 1
  4
  512
  
+edits chapter 2
+safs
+asf
+af
